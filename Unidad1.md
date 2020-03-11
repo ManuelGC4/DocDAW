@@ -25,7 +25,7 @@
 
 ### ¿Qué es Internet?
 
-![Internet](assets/internet.png)
+![Internet](images/internet.png)
 
 
 ### ¿Qué es Internet?
@@ -79,7 +79,7 @@
 
 ### Transacción HTTP
 
-![Transacción HTTP](assets/transaccion-http.png)
+![Transacción HTTP](images/transaccion-http.png)
 
 
 ### Ejemplo de petición
@@ -209,7 +209,7 @@ video/H264            | Video con codificación H.264
 
 ### Petición HTTP
 
-![Petición HTTP](assets/peticion-http.png)
+![Petición HTTP](images/peticion-http.png)
 
 
 
@@ -225,12 +225,12 @@ video/H264            | Video con codificación H.264
 
 ### Modelo de 2 capas
 
-![Web 2 capas](assets/web-2-capas.png)
+![Web 2 capas](images/web-2-capas.png)
 
 
 ### Modelo de 3 capas
 
-![Web 3 capas](assets/web-3-capas.png)
+![Web 3 capas](images/web-3-capas.png)
 
 
 ### Páginas estáticas
@@ -265,7 +265,7 @@ video/H264            | Video con codificación H.264
 ### Apache
 #### Directorios y archivos de configuración
 
-![Apache2](assets/apache2-files.png)
+![Apache2](images/apache2-files.png)
 
 
 
@@ -303,10 +303,10 @@ video/H264            | Video con codificación H.264
 ### La nube
 #### Proveedores ###
 
-![Amazon - GCP - Azure](assets/cloud-amazon.png)
+![Amazon - GCP - Azure](images/cloud-amazon.png)
 
 
 ### La nube
 #### Proveedores ###
 
-![Heroku - Openshift - DigitalOcean](assets/cloud-heroku.png)
+![Heroku - Openshift - DigitalOcean](images/cloud-heroku.png)
