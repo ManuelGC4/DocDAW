@@ -56,12 +56,12 @@
 
 ### FQDN
 
-![Árbol DNS](assets/dns-tree.png)
+![Árbol DNS](images/dns-tree.png)
 
 
 ### Niveles
 
-![Niveles DNS](assets/dns-niveles.png)
+![Niveles DNS](images/dns-niveles.png)
 
 
 ### Dominios de nivel superior
@@ -125,7 +125,7 @@
 
 ### Servidor primario (maestro)
 
-![Servidor primario](assets/dns-primary.png)
+![Servidor primario](images/dns-primary.png)
 
 
 ### Servidor secundario (esclavo)
@@ -138,7 +138,7 @@
 
 ### Servidor secundario (esclavo)
 
-![Servidor secundario](assets/dns-secondary.png)
+![Servidor secundario](images/dns-secondary.png)
 
 
 ### Servidor caché
@@ -150,7 +150,7 @@
 
 ### Servidor caché
 
-![Servidor caché](assets/dns-cache.png)
+![Servidor caché](images/dns-cache.png)
 
 
 ### Servidor de reenvío
@@ -161,7 +161,7 @@
 
 ### Servidor de reenvío
 
-![Servidor de reenvio](assets/dns-reenvio.png)
+![Servidor de reenvio](images/dns-reenvio.png)
 
 
 
@@ -170,7 +170,7 @@
 
 ### Procedimiento
 
-![Resolución DNS](assets/dns-resolucion.png)
+![Resolución DNS](images/dns-resolucion.png)
 
 
 ### Tipos de resoluciones
@@ -337,4 +337,4 @@ named-checkzone  example.com  /var/lib/bind/db.example.com
 named-checkzone  16.172.in-addr.arpa  /var/lib/bind/db.172.16
 ```
 
-![named checkconf checkzone](assets/named-checkconf-checkzone.png)
+![named checkconf checkzone](images/named-checkconf-checkzone.png)
